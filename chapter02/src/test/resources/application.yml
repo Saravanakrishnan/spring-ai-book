@@ -9,5 +9,5 @@ spring:
       chat.options:
         temperature: 0.0
 #        model: gpt-3.5-turbo
-        model: gemini-2.0-flash
+        model: gemini-2.5-flash
     retry.max-attempts: 2

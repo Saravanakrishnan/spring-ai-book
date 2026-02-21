@@ -25,7 +25,7 @@ public class OptionTests {
                         "Assume clear weather and standard currents in the south China sea.",
                 OpenAiChatOptions.builder()
 //                        .withModel("gpt-4o")
-                        .withModel("gemini-2.0-flash")
+                        .withModel("gemini-2.5-flash")
                         .build()
         );
         log.info(response);
