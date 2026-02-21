@@ -11,7 +11,7 @@ public class FirstChatService {
 
     protected final ChatClient client;
 
-    FirstChatService(ChatClient.Builder builder) {
+    public FirstChatService(ChatClient.Builder builder) {
         this.client = builder.build();
     }
 
