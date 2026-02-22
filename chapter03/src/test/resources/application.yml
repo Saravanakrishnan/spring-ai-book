@@ -1,0 +1,11 @@
+spring:
+  config.import: file:../.env[.properties]
+  ai:
+    openai:
+      api-key: ${GEMINI_API_KEY}
+      base-url: https://generativelanguage.googleapis.com/v1beta/openai
+      chat.completions-path: /chat/completions
+      chat.options:
+        temperature: 0.0
+        model: gemini-2.5-flash
+    retry.max-attempts: 2
