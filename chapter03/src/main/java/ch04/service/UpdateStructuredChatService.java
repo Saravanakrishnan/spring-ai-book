@@ -1,4 +1,4 @@
-package ch03.service;
+package ch04.service;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.messages.Message;

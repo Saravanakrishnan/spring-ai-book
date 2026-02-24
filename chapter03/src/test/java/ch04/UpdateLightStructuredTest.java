@@ -1,6 +1,6 @@
-package ch03;
+package ch04;
 
-import ch03.service.UpdateStructuredChatService;
+import ch04.service.UpdateStructuredChatService;
 import org.junit.jupiter.api.Test;
 import org.springframework.ai.chat.messages.UserMessage;
 import org.springframework.beans.factory.annotation.Autowired;

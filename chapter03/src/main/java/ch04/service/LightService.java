@@ -1,6 +1,6 @@
-package ch03.service;
+package ch04.service;
 
-import ch03.model.Light;
+import ch04.model.Light;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.ApplicationContext;

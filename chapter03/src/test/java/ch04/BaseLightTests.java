@@ -1,7 +1,7 @@
-package ch03;
+package ch04;
 
-import ch03.model.Light;
-import ch03.service.LightService;
+import ch04.model.Light;
+import ch04.service.LightService;
 import org.junit.jupiter.api.BeforeEach;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

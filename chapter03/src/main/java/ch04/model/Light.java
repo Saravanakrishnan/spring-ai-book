@@ -1,4 +1,4 @@
-package ch03.model;
+package ch04.model;
 
 import java.util.StringJoiner;
 

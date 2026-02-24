@@ -1,6 +1,6 @@
-package ch03;
+package ch04;
 
-import ch03.model.Light;
+import ch04.model.Light;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 

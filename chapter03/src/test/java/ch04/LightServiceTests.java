@@ -1,6 +1,6 @@
-package ch03;
+package ch04;
 
-import ch03.service.LightService;
+import ch04.service.LightService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
